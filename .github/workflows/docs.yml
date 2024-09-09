@@ -16,6 +16,7 @@ jobs:
         with:
           # fetch all commits to get last updated time or other git log info
           fetch-depth: 0
+          persist-credentials: false
 
       - name: Setup Node.js
         uses: actions/setup-node@v1
@@ -42,9 +43,6 @@ jobs:
       # run build script
       - name: Build VuePress site
         run: yarn docs:build
-      
-      - name: Clear git sshCommand
-        run: git config --local --unset core.sshCommand
 
       # please check out the docs of the workflow for more details
       # @see https://github.com/crazy-max/ghaction-github-pages
