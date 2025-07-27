@@ -4,7 +4,7 @@
 
 Новый адрес журнала «Пропаганда» доступен через [I2P](https://ru.wikipedia.org/wiki/I2P).
 
-https://xjdistx2ndbf456qttpz4vin5ik5errrbcszoa7cu43qa3wioihq.b32.i2p
+[https://xjdistx2ndbf456qttpz4vin5ik5errrbcszoa7cu43qa3wioihq.b32.i2p](https://xjdistx2ndbf456qttpz4vin5ik5errrbcszoa7cu43qa3wioihq.b32.i2p)
 
 [Уведомление о новой версии, статья «О технических проблемах и их преодолении»](https://xjdistx2ndbf456qttpz4vin5ik5errrbcszoa7cu43qa3wioihq.b32.i2p/10665.html).
 
