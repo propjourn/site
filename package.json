@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/propjourn/site.git",
-  "author": "Denis <mer1897@yandex.ru>",
   "license": "MIT",
   "devDependencies": {
     "@vuepress/bundler-vite": "^2.0.0-rc.8",
